@@ -1,0 +1,6 @@
+framework module SFAlertViewController {
+  umbrella header "SFAlertViewController-umbrella.h"
+
+  export *
+  module * { export * }
+}

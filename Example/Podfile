@@ -1,0 +1,13 @@
+platform :ios, '9.0'
+inhibit_all_warnings!
+use_frameworks!
+
+target 'SFAlertViewController_Example' do
+  pod 'SFAlertViewController', :path => '../'
+
+  target 'SFAlertViewController_Tests' do
+    inherit! :search_paths
+
+    pod 'FBSnapshotTestCase' , '~> 2.1.4'
+  end
+end

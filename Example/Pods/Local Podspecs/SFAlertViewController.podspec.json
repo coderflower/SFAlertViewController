@@ -1,0 +1,22 @@
+{
+  "name": "SFAlertViewController",
+  "version": "0.1.0",
+  "summary": "A short description of SFAlertViewController.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/蔡龙君/SFAlertViewController",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "蔡龙君": "cailongjun@huami.com"
+  },
+  "source": {
+    "git": "https://github.com/蔡龙君/SFAlertViewController.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "SFAlertViewController/Classes/**/*"
+}
